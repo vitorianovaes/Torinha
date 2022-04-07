@@ -12,7 +12,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-📡 Esse projeto de circuito de comunicação wireless foi desenvolvido para o desafio da Tractian;
+📡 Esse projeto de circuito de comunicação wireless foi desenvolvido para o desafio da Tractian; Tem como objetivo enviar um arquivo de 500kb a partir de um espaço aberto de 100m usando uma bateria. 
   
 ## ⚙️ Componentes 
   
