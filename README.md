@@ -1,8 +1,9 @@
 
-<h3 align="center">
+<h1 align="center">
     📡 Projeto da Torinha 😼
 
-Tabela de conteúdos
+<h3>Tabela de conteúdos</h3>
+    
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
@@ -16,24 +17,25 @@ Tabela de conteúdos
   
 ## ⚙️ Componentes 
   
-  -> Placa de Transmissão: <br>
-     - Transmissor RF 433 mhz: foi escolhido porque é fácil de encontrar em lojas, é barato e opera entre 0m-150m; <br>
-     - Bateria; <br>
-     - ATMEGA 328P: foi escolhido pela praticidade e custo benefício. O ATMEGA é pequeno em relação ao Arduíno, economizando espaço e portas, apesar de usarem a mesma tecnologia; <br>
-     - Resistor: para o LED e bateria; <br>
-     - Cartão SD: foi escolhido pela facilidade de operação; <br>
-     - Botão de enviar (Push Button); <br>
-     - Botão de Liga/Desliga (Switch); <br>
-     - LED 5mm: para mostrar ao usuário que o arquivo foi enviado corretamente; <br>
+_Placa de Transmissão:_
+    <!--ts-->
+   * Transmissor RF 433 mhz: foi escolhido porque é fácil de encontrar em lojas, é barato e opera entre 0m-150m;
+   * Bateria; <br>
+   * ATMEGA 328P: foi escolhido pela praticidade e custo benefício. O ATMEGA é pequeno em relação ao Arduíno, economizando espaço e portas, apesar de usarem a mesma tecnologia; <br>
+   * Resistor: para o LED e bateria;
+   * Cartão SD: foi escolhido pela facilidade de operação; <br>
+   * Botão de enviar (Push Button); <br>
+   * Botão de Liga/Desliga (Switch); <br>
+   * LED 5mm: para mostrar ao usuário que o arquivo foi enviado corretamente; <br>
   
-  -> Placa de Recepção:
-     - Receptor RF 433 mhz; <br>
-     - Bateria; <br>
-     - ATMEGA 328P; <br>
-     - Resistor; <br>
-     - Cartão SD; <br>
-     - LED; <br>
-     - Botão Liga/Desliga; <br>
+  _Placa de Recepção:_
+   * Receptor RF 433 mhz; <br>
+   * Bateria; <br>
+   * ATMEGA 328P; <br>
+   * Resistor; <br>
+   * Cartão SD; <br>
+   * LED; <br>
+   * Botão Liga/Desliga; <br>
 
 
 ## ⚙️ Funcionalidades
